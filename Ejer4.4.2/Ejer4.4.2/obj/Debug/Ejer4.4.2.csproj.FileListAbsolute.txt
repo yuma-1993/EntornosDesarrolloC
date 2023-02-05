@@ -1,0 +1,11 @@
+C:\Users\jollo\source\repos\Ejer4.4.2\Ejer4.4.2\bin\Debug\Ejer4.4.2.exe.config
+C:\Users\jollo\source\repos\Ejer4.4.2\Ejer4.4.2\bin\Debug\Ejer4.4.2.exe
+C:\Users\jollo\source\repos\Ejer4.4.2\Ejer4.4.2\bin\Debug\Ejer4.4.2.pdb
+C:\Users\jollo\source\repos\Ejer4.4.2\Ejer4.4.2\obj\Debug\Ejer4.4.2.csproj.AssemblyReference.cache
+C:\Users\jollo\source\repos\Ejer4.4.2\Ejer4.4.2\obj\Debug\Ejer4.4.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\jollo\source\repos\Ejer4.4.2\Ejer4.4.2\obj\Debug\Ejer4._4._2.Form1.resources
+C:\Users\jollo\source\repos\Ejer4.4.2\Ejer4.4.2\obj\Debug\Ejer4._4._2.Properties.Resources.resources
+C:\Users\jollo\source\repos\Ejer4.4.2\Ejer4.4.2\obj\Debug\Ejer4.4.2.csproj.GenerateResource.cache
+C:\Users\jollo\source\repos\Ejer4.4.2\Ejer4.4.2\obj\Debug\Ejer4.4.2.csproj.CoreCompileInputs.cache
+C:\Users\jollo\source\repos\Ejer4.4.2\Ejer4.4.2\obj\Debug\Ejer4.4.2.exe
+C:\Users\jollo\source\repos\Ejer4.4.2\Ejer4.4.2\obj\Debug\Ejer4.4.2.pdb
