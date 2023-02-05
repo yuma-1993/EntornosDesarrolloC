@@ -1,0 +1,8 @@
+C:\Users\jollo\source\repos\Practica3FuncionesMATH\Practica3FuncionesMATH\bin\Debug\Practica3FuncionesMATH.exe.config
+C:\Users\jollo\source\repos\Practica3FuncionesMATH\Practica3FuncionesMATH\bin\Debug\Practica3FuncionesMATH.exe
+C:\Users\jollo\source\repos\Practica3FuncionesMATH\Practica3FuncionesMATH\bin\Debug\Practica3FuncionesMATH.pdb
+C:\Users\jollo\source\repos\Practica3FuncionesMATH\Practica3FuncionesMATH\obj\Debug\Practica3FuncionesMATH.csproj.AssemblyReference.cache
+C:\Users\jollo\source\repos\Practica3FuncionesMATH\Practica3FuncionesMATH\obj\Debug\Practica3FuncionesMATH.csproj.SuggestedBindingRedirects.cache
+C:\Users\jollo\source\repos\Practica3FuncionesMATH\Practica3FuncionesMATH\obj\Debug\Practica3FuncionesMATH.csproj.CoreCompileInputs.cache
+C:\Users\jollo\source\repos\Practica3FuncionesMATH\Practica3FuncionesMATH\obj\Debug\Practica3FuncionesMATH.exe
+C:\Users\jollo\source\repos\Practica3FuncionesMATH\Practica3FuncionesMATH\obj\Debug\Practica3FuncionesMATH.pdb
