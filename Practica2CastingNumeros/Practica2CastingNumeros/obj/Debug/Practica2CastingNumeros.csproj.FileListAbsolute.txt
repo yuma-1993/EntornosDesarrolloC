@@ -1,0 +1,11 @@
+C:\Users\jollo\source\repos\Practica2CastingNumeros\Practica2CastingNumeros\bin\Debug\Practica2CastingNumeros.exe.config
+C:\Users\jollo\source\repos\Practica2CastingNumeros\Practica2CastingNumeros\bin\Debug\Practica2CastingNumeros.exe
+C:\Users\jollo\source\repos\Practica2CastingNumeros\Practica2CastingNumeros\bin\Debug\Practica2CastingNumeros.pdb
+C:\Users\jollo\source\repos\Practica2CastingNumeros\Practica2CastingNumeros\obj\Debug\Practica2CastingNumeros.csproj.AssemblyReference.cache
+C:\Users\jollo\source\repos\Practica2CastingNumeros\Practica2CastingNumeros\obj\Debug\Practica2CastingNumeros.csproj.SuggestedBindingRedirects.cache
+C:\Users\jollo\source\repos\Practica2CastingNumeros\Practica2CastingNumeros\obj\Debug\Practica2CastingNumeros.Form1.resources
+C:\Users\jollo\source\repos\Practica2CastingNumeros\Practica2CastingNumeros\obj\Debug\Practica2CastingNumeros.Properties.Resources.resources
+C:\Users\jollo\source\repos\Practica2CastingNumeros\Practica2CastingNumeros\obj\Debug\Practica2CastingNumeros.csproj.GenerateResource.cache
+C:\Users\jollo\source\repos\Practica2CastingNumeros\Practica2CastingNumeros\obj\Debug\Practica2CastingNumeros.csproj.CoreCompileInputs.cache
+C:\Users\jollo\source\repos\Practica2CastingNumeros\Practica2CastingNumeros\obj\Debug\Practica2CastingNumeros.exe
+C:\Users\jollo\source\repos\Practica2CastingNumeros\Practica2CastingNumeros\obj\Debug\Practica2CastingNumeros.pdb
