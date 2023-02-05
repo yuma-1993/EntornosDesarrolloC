@@ -1,0 +1,8 @@
+C:\Users\jollo\source\repos\Practica3TiposDatos\Practica3TiposDatos\bin\Debug\Practica3TiposDatos.exe.config
+C:\Users\jollo\source\repos\Practica3TiposDatos\Practica3TiposDatos\bin\Debug\Practica3TiposDatos.exe
+C:\Users\jollo\source\repos\Practica3TiposDatos\Practica3TiposDatos\bin\Debug\Practica3TiposDatos.pdb
+C:\Users\jollo\source\repos\Practica3TiposDatos\Practica3TiposDatos\obj\Debug\Practica3TiposDatos.csproj.AssemblyReference.cache
+C:\Users\jollo\source\repos\Practica3TiposDatos\Practica3TiposDatos\obj\Debug\Practica3TiposDatos.csproj.SuggestedBindingRedirects.cache
+C:\Users\jollo\source\repos\Practica3TiposDatos\Practica3TiposDatos\obj\Debug\Practica3TiposDatos.csproj.CoreCompileInputs.cache
+C:\Users\jollo\source\repos\Practica3TiposDatos\Practica3TiposDatos\obj\Debug\Practica3TiposDatos.exe
+C:\Users\jollo\source\repos\Practica3TiposDatos\Practica3TiposDatos\obj\Debug\Practica3TiposDatos.pdb
