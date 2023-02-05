@@ -1,0 +1,11 @@
+C:\Users\jollo\source\repos\Practica1Fuentes\Practica1Fuentes\bin\Debug\Practica1Fuentes.exe.config
+C:\Users\jollo\source\repos\Practica1Fuentes\Practica1Fuentes\bin\Debug\Practica1Fuentes.exe
+C:\Users\jollo\source\repos\Practica1Fuentes\Practica1Fuentes\bin\Debug\Practica1Fuentes.pdb
+C:\Users\jollo\source\repos\Practica1Fuentes\Practica1Fuentes\obj\Debug\Practica1Fuentes.csproj.AssemblyReference.cache
+C:\Users\jollo\source\repos\Practica1Fuentes\Practica1Fuentes\obj\Debug\Practica1Fuentes.csproj.SuggestedBindingRedirects.cache
+C:\Users\jollo\source\repos\Practica1Fuentes\Practica1Fuentes\obj\Debug\Practica1Fuentes.Form1.resources
+C:\Users\jollo\source\repos\Practica1Fuentes\Practica1Fuentes\obj\Debug\Practica1Fuentes.Properties.Resources.resources
+C:\Users\jollo\source\repos\Practica1Fuentes\Practica1Fuentes\obj\Debug\Practica1Fuentes.csproj.GenerateResource.cache
+C:\Users\jollo\source\repos\Practica1Fuentes\Practica1Fuentes\obj\Debug\Practica1Fuentes.csproj.CoreCompileInputs.cache
+C:\Users\jollo\source\repos\Practica1Fuentes\Practica1Fuentes\obj\Debug\Practica1Fuentes.exe
+C:\Users\jollo\source\repos\Practica1Fuentes\Practica1Fuentes\obj\Debug\Practica1Fuentes.pdb
