@@ -1,0 +1,8 @@
+C:\Users\jollo\source\repos\Practica 4.6 Ficheros - Ejercicio 3\Practica 4.6 Ficheros - Ejercicio 3\bin\Debug\Practica 4.6 Ficheros - Ejercicio 3.exe.config
+C:\Users\jollo\source\repos\Practica 4.6 Ficheros - Ejercicio 3\Practica 4.6 Ficheros - Ejercicio 3\bin\Debug\Practica 4.6 Ficheros - Ejercicio 3.exe
+C:\Users\jollo\source\repos\Practica 4.6 Ficheros - Ejercicio 3\Practica 4.6 Ficheros - Ejercicio 3\bin\Debug\Practica 4.6 Ficheros - Ejercicio 3.pdb
+C:\Users\jollo\source\repos\Practica 4.6 Ficheros - Ejercicio 3\Practica 4.6 Ficheros - Ejercicio 3\obj\Debug\Practica 4.6 Ficheros - Ejercicio 3.csproj.AssemblyReference.cache
+C:\Users\jollo\source\repos\Practica 4.6 Ficheros - Ejercicio 3\Practica 4.6 Ficheros - Ejercicio 3\obj\Debug\Practica 4.6 Ficheros - Ejercicio 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\jollo\source\repos\Practica 4.6 Ficheros - Ejercicio 3\Practica 4.6 Ficheros - Ejercicio 3\obj\Debug\Practica 4.6 Ficheros - Ejercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\jollo\source\repos\Practica 4.6 Ficheros - Ejercicio 3\Practica 4.6 Ficheros - Ejercicio 3\obj\Debug\Practica 4.6 Ficheros - Ejercicio 3.exe
+C:\Users\jollo\source\repos\Practica 4.6 Ficheros - Ejercicio 3\Practica 4.6 Ficheros - Ejercicio 3\obj\Debug\Practica 4.6 Ficheros - Ejercicio 3.pdb
