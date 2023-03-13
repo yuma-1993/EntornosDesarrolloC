@@ -1,0 +1,11 @@
+C:\Users\jollo\source\repos\Practica 4.8 Repaso - 2\Practica 4.8 Repaso - 2\bin\Debug\Practica 4.8 Repaso - 2.exe.config
+C:\Users\jollo\source\repos\Practica 4.8 Repaso - 2\Practica 4.8 Repaso - 2\bin\Debug\Practica 4.8 Repaso - 2.exe
+C:\Users\jollo\source\repos\Practica 4.8 Repaso - 2\Practica 4.8 Repaso - 2\bin\Debug\Practica 4.8 Repaso - 2.pdb
+C:\Users\jollo\source\repos\Practica 4.8 Repaso - 2\Practica 4.8 Repaso - 2\obj\Debug\Practica 4.8 Repaso - 2.csproj.AssemblyReference.cache
+C:\Users\jollo\source\repos\Practica 4.8 Repaso - 2\Practica 4.8 Repaso - 2\obj\Debug\Practica 4.8 Repaso - 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\jollo\source\repos\Practica 4.8 Repaso - 2\Practica 4.8 Repaso - 2\obj\Debug\Practica_4._8_Repaso___2.Form1.resources
+C:\Users\jollo\source\repos\Practica 4.8 Repaso - 2\Practica 4.8 Repaso - 2\obj\Debug\Practica_4._8_Repaso___2.Properties.Resources.resources
+C:\Users\jollo\source\repos\Practica 4.8 Repaso - 2\Practica 4.8 Repaso - 2\obj\Debug\Practica 4.8 Repaso - 2.csproj.GenerateResource.cache
+C:\Users\jollo\source\repos\Practica 4.8 Repaso - 2\Practica 4.8 Repaso - 2\obj\Debug\Practica 4.8 Repaso - 2.csproj.CoreCompileInputs.cache
+C:\Users\jollo\source\repos\Practica 4.8 Repaso - 2\Practica 4.8 Repaso - 2\obj\Debug\Practica 4.8 Repaso - 2.exe
+C:\Users\jollo\source\repos\Practica 4.8 Repaso - 2\Practica 4.8 Repaso - 2\obj\Debug\Practica 4.8 Repaso - 2.pdb
